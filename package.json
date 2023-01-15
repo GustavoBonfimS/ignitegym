@@ -28,7 +28,8 @@
     "babel-plugin-module-resolve": "^1.4.4",
     "eslint": "^8.31.0",
     "eslint-config-universe": "^11.1.1",
-    "prettier": "^2.8.3"
+    "prettier": "^2.8.3",
+    "react-native-svg-transformer": "^1.0.0"
   },
   "private": true
 }
